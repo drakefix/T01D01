@@ -1,0 +1,4 @@
+1. nano door_managment_files/door_configuration/door_1.conf
+2. Исправление строки CLOSED на OPEN
+3. CTRL+O ENTER - сохранить
+4. CTRL+X ENTER - ВЫЙТИ
